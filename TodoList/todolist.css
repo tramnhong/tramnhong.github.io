@@ -1,0 +1,92 @@
+.header {
+  background-color: #ffffff;
+  padding: 10px 10px;
+  color: rgb(12, 12, 12);
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: left;
+}
+
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+input {
+  margin: 0;
+  border-color: rgb(15, 1, 1) ;
+  border-radius: 0;
+  width: 60%;
+  padding: 10px;
+  float: left;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.addBtn {
+  padding: 10px;
+  width: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 0, 0);
+  float: left;
+  text-align: left;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0;
+ 
+}
+
+.addBtn:hover {
+  color: rgb(253, 5, 5);
+}
+  
+  ul {
+    margin: 10;
+    padding: 10;
+  }
+  
+  ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 10px 10px 10px 40px;
+    background: rgb(255, 255, 255);
+    font-size: 20px;
+    transition: 0.3s;
+  
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  ul li:hover {
+    background: rgb(235, 235, 235);
+  }
+  
+  ul li.checked {
+    background: rgb(255, 255, 255);
+    color: rgb(168, 164, 164);
+    text-decoration: line-through;
+  }
+  
+  ul li:hover {
+    background: rgb(235, 235, 235);
+  }
+  
+  .close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 10px 10px 10px 10px;
+  }
+  
+  .close:hover {
+    background-color: #858180;
+    color: white;
+  }
+  
+  
+
+  
