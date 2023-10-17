@@ -373,7 +373,7 @@ section {
   display: block;
   width: 120px;
   height: 1px;
-  background: #ddd;
+ 
   bottom: 1px;
   left: calc(50% - 60px);
 }
@@ -384,7 +384,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #0563bb;
+ 
   bottom: 0;
   left: calc(50% - 20px);
 }
