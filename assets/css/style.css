@@ -524,7 +524,8 @@ section {
 
 .contact .info .email,
 .contact .info .phone {
-  margin-top: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
 }
 
 .contact .info .email:hover i,
