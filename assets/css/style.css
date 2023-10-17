@@ -381,6 +381,8 @@ section {
   margin-top: 15px;
   margin-left: 5px;
   margin-right: 5px;
+  max-width: 70%;
+  max-heigh: 70%;
 }
 #about img p{
   margin-left: 20px;
