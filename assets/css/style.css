@@ -367,27 +367,7 @@ section {
   color: #45505b;
 }
 
-.section-title h2::before {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 120px;
-  height: 1px;
- 
-  bottom: 1px;
-  left: calc(50% - 60px);
-}
 
-.section-title h2::after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 40px;
-  height: 3px;
- 
-  bottom: 0;
-  left: calc(50% - 20px);
-}
 
 .section-title p {
   margin-bottom: 0;
@@ -401,7 +381,7 @@ section {
 }
 .about p{
   font-size: 20px;
-  padding: 5px;
+  padding: 1px;
   margin-left: 20px;
   margin-right: 30px;
   line-height: 1.5;
