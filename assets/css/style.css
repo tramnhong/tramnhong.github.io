@@ -378,6 +378,9 @@ section {
 --------------------------------------------------------------*/
 #about img[src="assets/img/profile-img.jpg" ] {
   border-radius: 50%;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .about p{
   font-size: 20px;
