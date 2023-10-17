@@ -385,8 +385,8 @@ section {
 .about p{
   font-size: 20px;
   padding: 1px;
-  margin-left: 20px;
-  margin-right: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
   line-height: 1.5;
 }
 .about .content h3 {
@@ -525,7 +525,7 @@ section {
 .contact .info .email,
 .contact .info .phone {
   margin-top: 10px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .contact .info .email:hover i,
