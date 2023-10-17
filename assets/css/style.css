@@ -382,6 +382,10 @@ section {
   margin-left: 5px;
   margin-right: 5px;
 }
+#about img p{
+  margin-left: 20px;
+}
+
 .about p{
   font-size: 20px;
   padding: 1px;
