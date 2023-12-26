@@ -394,6 +394,7 @@ section {
   margin-left: 10px;
   margin-right: 20px;
   line-height: 1.5;
+  text-align: left;
 }
 .about .content h3 {
   font-weight: 700;
