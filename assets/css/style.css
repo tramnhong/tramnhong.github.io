@@ -435,13 +435,14 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
+  border-left: 20px;
   color: #45505b;
 }
 
 .project .project-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px;
+  border-left: 20px;
   position: relative;
 }
 
@@ -453,6 +454,7 @@ section {
   font-family: "Poppins", sans-serif;
   color: #0563bb;
   margin-bottom: 10px;
+  border-left: 20px;
 }
 
 .project .project-item h5 {
