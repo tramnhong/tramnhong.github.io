@@ -431,12 +431,12 @@ section {
 # PROJECTS
 --------------------------------------------------------------*/
 .project .project-title {
-  font-size: 26px;
+   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-
   color: #45505b;
+  align-text: center;
 }
 
 .project .project-item {
@@ -444,7 +444,8 @@ section {
   margin-top: -2px;
   border-left: 30px;
    border-right: 30px;
-  position: relative;
+  position: center;
+  align-text: center;
 }
 
 .project .project-item h4 {
