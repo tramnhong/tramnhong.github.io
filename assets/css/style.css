@@ -435,14 +435,15 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  border-left: 20px;
+
   color: #45505b;
 }
 
 .project .project-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 20px;
+  border-left: 30px;
+   border-right: 30px;
   position: relative;
 }
 
@@ -454,7 +455,8 @@ section {
   font-family: "Poppins", sans-serif;
   color: #0563bb;
   margin-bottom: 10px;
-  border-left: 20px;
+  border-left: 30px;
+   border-right: 30px;
 }
 
 .project .project-item h5 {
@@ -463,11 +465,12 @@ section {
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
-  margin-bottom: 10px;
+  border-left: 30px;
+   border-right: 30px;
 }
 
 .project .project-item ul {
-  padding-left: 20px;
+  padding-left: 30px;
 }
 
 .project .project-item ul li {
@@ -487,7 +490,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px;
+  border: 20px;
 }
 
 
